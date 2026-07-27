@@ -5,7 +5,7 @@
 ---
 
 ## Integrantes del Equipo
-*Yuliana Abreu* (@yulianabreu) - Coautora
+*Yuliana Abreu* (@yulianabreu) - Coautora |
 *Raymar Terán* (@raymarteran) - Coautora
 
 ---
