@@ -38,6 +38,27 @@ Para mantener el control de versiones y garantizar revisiones de pares en *Contr
 
 ---
 
+## 🚀 Instrucciones de Uso y Contribución
+
+### Requisitos
+- Contar con una cuenta activa en [GitHub](https://github.com).
+- Un visor de archivos Markdown o un lector de documentos PDF.
+
+### Cómo consultar el Manual
+1. Puedes leer las secciones individuales en formato Markdown dentro de la carpeta /documentos.
+2. Para descargar la versión consolidada y lista para imprimir, descarga el archivo Manual_Buenas_Practicas_v1.0.pdf.
+
+### Flujo de Trabajo para Contribuir
+Si deseas proponer mejoras o agregar nuevas secciones al proyecto:
+1. *Crear una rama:* Crea una nueva rama a partir de main siguiendo la nomenclatura feature/nombre-de-tarea.
+2. *Realizar cambios:* Haz commits claros y descriptivos de tus aportes.
+3. *Abrir un Pull Request:* Solicita la revisión de un compañero asignándolo como Reviewer.
+4. *Fusión:* Una vez revisado y aprobado el cambio, se fusionará (Merge) a la rama principal main.
+
+---
+
 ## Versión Actual
 - *Versión actual:* v1.0.0
 - *Licencia:* Proyecto académico open source.
+
+
